@@ -1,0 +1,5 @@
+template {
+  source = "/tmp/config/templ.ctmpl"
+  destination = "/tmp/data/consul_catalog.json"
+  command = "fabric_consul"
+}

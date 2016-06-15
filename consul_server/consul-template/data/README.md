@@ -1,0 +1,1 @@
+## This is directory where data from consul will be stored.

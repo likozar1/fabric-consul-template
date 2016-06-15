@@ -1,0 +1,9 @@
+[consul]
+host = "192.168.0.5:8500"
+outfile = "/tmp/data/dataconsul_nodes"
+
+[ssl]
+ssl = false
+
+[retry]
+retry = 3 
